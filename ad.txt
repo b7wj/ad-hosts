@@ -1,0 +1,15 @@
+# Fuckal Mimei
+
+127.0.0.1  localhost
+::1  localhost
+
+127.0.0.1 open.kwaizt.com
+127.0.0.1 open.e.kuaishou.com
+127.0.0.1 open.kuaishouzt.com
+127.0.0.1 aaid.umeng.com
+127.0.0.1 watch.okii.com
+127.0.0.1 ulogs.umengcloud.com
+127.0.0.1 ulogs.umeng.com
+127.0.0.1 log-sdk.ksapisrv.com
+127.0.0.1 ali-ad.a.yximgs.com
+127.0.0.1 roi.soulapp.cn
